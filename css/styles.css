@@ -1,0 +1,13 @@
+thead tr th::after{
+    font-family: 'Font Awesome 5 Free';
+    content: '\f0d7';
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+thead tr th.up::after{
+    font-family: 'Font Awesome 5 Free';
+    content: '\f0d8';
+    margin-left: 5px;
+    cursor: pointer;
+}
